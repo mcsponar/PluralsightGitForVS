@@ -13,6 +13,8 @@ namespace VS_2012_Demo2
             //local changes
 
             //some more changes
+
+            //some more changes 2
         }
     }
 }
