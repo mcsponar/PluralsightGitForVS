@@ -10,6 +10,9 @@ namespace VS_2012_Demo2
     {
         static void Main(string[] args)
         {
+            //local changes
+
+            //some more changes
         }
     }
 }
